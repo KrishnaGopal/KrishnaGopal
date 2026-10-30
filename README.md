@@ -119,25 +119,6 @@
 
 ---
 
-## `~/github-stats`
-
-<div align="center">
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&theme=tokyonight&icon_color=0b9b9b&title_color=0b9b9b" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&theme=tokyonight&title_color=0b9b9b&langs_count=8" alt="Top Languages" />
-
-  <br/>
-
-  <img height="165" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true&theme=tokyonight&ring=0b9b9b&fire=0b9b9b&currStreakLabel=0b9b9b" alt="GitHub Streak" />
-
-  <br/><br/>
-
-  <img width="88%" src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=nord&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies" />
-
-</div>
-
----
-
 ## `~/connect`
 
 <div align="center">
